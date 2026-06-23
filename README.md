@@ -1,4 +1,4 @@
-<img width="429" height="529" alt="image" src="https://github.com/user-attachments/assets/9841a23c-ddeb-4927-8ee6-8ee1eae3ed42" />🎨 *Learn To Build A Real Time Gen AI Image Colorization (v2)*
+🎨 *Learn To Build A Real Time Gen AI Image Colorization (v2)*
 📌 Internship Project Report
 
   Organization: ElevanceSkills Technology Pvt. Ltd.
@@ -82,17 +82,17 @@
 
 📷 Sample Outputs:-
 
-Task 1 = <img width="430" height="529" alt="image" src="https://github.com/user-attachments/assets/082aaa3f-ba7f-4b46-baa4-96e8cb7abe8f" />,
-         <img width="429" height="529" alt="image" src="https://github.com/user-attachments/assets/ede50060-2bec-42a3-b704-ce1210a6f560" />
+<img width="430" height="529" alt="image" src="https://github.com/user-attachments/assets/082aaa3f-ba7f-4b46-baa4-96e8cb7abe8f" />,
+<img width="429" height="529" alt="image" src="https://github.com/user-attachments/assets/ede50060-2bec-42a3-b704-ce1210a6f560" />
 
-Task 2 = <img width="634" height="384" alt="image" src="https://github.com/user-attachments/assets/78b3716d-244e-4d4e-bf65-626fa11e08bb" />
+<img width="634" height="384" alt="image" src="https://github.com/user-attachments/assets/78b3716d-244e-4d4e-bf65-626fa11e08bb" />
 
-Task 3 = <img width="651" height="317" alt="image" src="https://github.com/user-attachments/assets/691fc114-7e14-498d-9256-eafe5379a62b" />
+<img width="651" height="317" alt="image" src="https://github.com/user-attachments/assets/691fc114-7e14-498d-9256-eafe5379a62b" />
 
-Task 4 = <img width="630" height="298" alt="image" src="https://github.com/user-attachments/assets/09dfc49c-1c01-4877-8380-e2439bb5ba74" />
+<img width="630" height="298" alt="image" src="https://github.com/user-attachments/assets/09dfc49c-1c01-4877-8380-e2439bb5ba74" />
 
-Task 5 = <img width="643" height="294" alt="image" src="https://github.com/user-attachments/assets/31f89fce-6816-402f-bde3-fe04750c5638" />
-         <img width="662" height="342" alt="image" src="https://github.com/user-attachments/assets/5ecaa720-ab35-4f69-830c-284c659f92cf" />
+<img width="643" height="294" alt="image" src="https://github.com/user-attachments/assets/31f89fce-6816-402f-bde3-fe04750c5638" />
+<img width="662" height="342" alt="image" src="https://github.com/user-attachments/assets/5ecaa720-ab35-4f69-830c-284c659f92cf" />
 
 Task 6 = <img width="727" height="359" alt="image" src="https://github.com/user-attachments/assets/1152803a-e73c-4909-95c7-d856845f2f02" />
 
