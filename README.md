@@ -94,7 +94,7 @@
 <img width="643" height="294" alt="image" src="https://github.com/user-attachments/assets/31f89fce-6816-402f-bde3-fe04750c5638" />
 <img width="662" height="342" alt="image" src="https://github.com/user-attachments/assets/5ecaa720-ab35-4f69-830c-284c659f92cf" />
 
-Task 6 = <img width="727" height="359" alt="image" src="https://github.com/user-attachments/assets/1152803a-e73c-4909-95c7-d856845f2f02" />
+<img width="727" height="359" alt="image" src="https://github.com/user-attachments/assets/1152803a-e73c-4909-95c7-d856845f2f02" />
 
 
 
